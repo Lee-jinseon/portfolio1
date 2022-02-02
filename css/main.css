@@ -19,27 +19,24 @@
     height: 571px;
     margin-top:100px;
 }
+.slideInner img {
+    margin-top: 150px
+}
 .slideInner .slide1 {  background-size:cover;
     background: url(../images/kids.jpg) no-repeat center;
     position:relative
 }
-.slideInner .slide1 img {
-    margin-top: 170px
-}
+
 .slideInner .slide2 { background-size:cover;
     background: url(../images/woman.jpg) no-repeat center;
     position:relative
 }
-.slideInner .slide2 img {
-    margin-top: 170px
-}
+
 .slideInner .slide3 { background-size:cover;
     background: url(../images/man.jpg) no-repeat center;
     position:relative
 }
-.slideInner .slide3 img {
-    margin-top: 170px
-}
+
 .slideInner .slide4 { background-size:cover;
     background: url(../images/beauty1.jpg) no-repeat center;
     position:relative
